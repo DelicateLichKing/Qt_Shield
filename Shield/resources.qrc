@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/skin">
+        <file>Resources/img/skin/17_big.jpg</file>
+    </qresource>
+</RCC>

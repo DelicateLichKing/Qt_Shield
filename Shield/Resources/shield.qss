@@ -1,0 +1,79 @@
+/*pushButton1*/
+QPushButton#pushButton{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton:hover{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+/*pushButton2*/
+QPushButton#pushButton_2{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_2:hover{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_2:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+/*pushButton3*/
+QPushButton#pushButton_3{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_3:hover{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_3:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+/*pushButton4*/
+QPushButton#pushButton_4{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_4:hover{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_4:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+/*pushButton5*/
+QPushButton#pushButton_5{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton:hover_5{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_5:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+/*pushButton6*/
+QPushButton#pushButton_6{
+        border-image: url(:/toolWidget/img/toolWidget/cyanBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_6:hover{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+QPushButton#pushButton_6:checked{
+        border-image: url(:/toolWidget/img/toolWidget/orangeBtn.png);
+        border: 0px;
+}
+
